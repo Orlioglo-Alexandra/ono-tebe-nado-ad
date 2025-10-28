@@ -209,8 +209,8 @@
   text-transform: lowercase;
   color: black;
 }
-.about{
-    margin-top: 120px;
+.about {
+  margin-top: 120px;
 }
 .about__column {
   display: grid;
@@ -278,6 +278,7 @@
   text-underline-offset: 4px;
   line-height: normal;
 }
+
 .footer_address {
   list-style: none;
   text-underline-offset: 4px;
